@@ -7,9 +7,7 @@ public class honeyShing {
 			System.out.println("sumon");
 			System.out.println("just awesome");
 			System.out.println("hello world");
-			System.out.println("Gumsoda Gumsodaaa Gumsodaaaaaaa");
-			System.out.println("jenkins test");
-			System.out.println("hello hi");
-			System.out.println("jala jala ai antore");
+            System.out.println("hhhhhhhh");
+             
 		}
 }
