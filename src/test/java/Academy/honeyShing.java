@@ -9,5 +9,6 @@ public class honeyShing {
 			System.out.println("hello world");
 			System.out.println("Gumsoda Gumsodaaa Gumsodaaaaaaa");
 			System.out.println("jenkins test");
+			System.out.println("hello hi");
 		}
 }
