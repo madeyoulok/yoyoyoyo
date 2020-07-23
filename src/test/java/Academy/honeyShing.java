@@ -6,8 +6,7 @@ public class honeyShing {
 			System.out.println("hello hello");
 			System.out.println("sumon");
 		    System.out.println("Hello World");
-		    System.out.println("Testing");
-		    System.out.println("multy user");
-             
+		    System.out.println("2nd user");
+		
 		}
 }
